@@ -14,8 +14,7 @@
  */
 export default class UserTable {
   constructor(rows) {
-    console.log ('Привет');
-
+   
     this.elem = document.createElement('table');
     console.log(this.elem);
 
